@@ -20,7 +20,7 @@ namespace SeleniumTraining
 		{
 			driver.Navigate().GoToUrl("https://google.com");
 			driver.Manage().Window.Maximize();
-			driver.FindElement(By.CssSelector("[name=q]")).SendKeys("JLL" + "\n");
+			//driver.FindElement(By.CssSelector("[name=q]")).SendKeys("JLL" + "\n");
 			
 
 
