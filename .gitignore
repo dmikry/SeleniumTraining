@@ -362,6 +362,3 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-dir_to_ignore/obj
-dir_to_ignore/bin
-dir_to_ignore/.vs
