@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLDDJ/RGIvz/qScX6eGVHiqesKn9JkJqYcel+WR5SMnLf8ENYbvDxraSyaSC7rBU7ILmnvmI441r22Ote3QUOw==",
+  "dgSpecHash": "gPQrGSsu9SoII8CSMLTRm4xTfSMy3NJwboxnIOrWQbt4HnePDtlCMYlcDqKi94xPSTIXzSwc6/sQnd2+17Ei4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmytro.krylov\\source\\repos\\SeleniumTraining\\SeleniumTraining.csproj",
+  "projectFilePath": "C:\\Users\\dmytro.krylov\\source\\repos\\Selenium\\SeleniumTraining.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmytro.krylov\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\dmytro.krylov\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

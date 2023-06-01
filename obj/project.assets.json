@@ -1365,11 +1365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmytro.krylov\\source\\repos\\SeleniumTraining\\SeleniumTraining.csproj",
+      "projectUniqueName": "C:\\Users\\dmytro.krylov\\source\\repos\\Selenium\\SeleniumTraining.csproj",
       "projectName": "SeleniumTraining",
-      "projectPath": "C:\\Users\\dmytro.krylov\\source\\repos\\SeleniumTraining\\SeleniumTraining.csproj",
+      "projectPath": "C:\\Users\\dmytro.krylov\\source\\repos\\Selenium\\SeleniumTraining.csproj",
       "packagesPath": "C:\\Users\\dmytro.krylov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmytro.krylov\\source\\repos\\SeleniumTraining\\obj\\",
+      "outputPath": "C:\\Users\\dmytro.krylov\\source\\repos\\Selenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmytro.krylov\\AppData\\Roaming\\NuGet\\NuGet.Config",
